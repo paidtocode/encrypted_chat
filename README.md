@@ -1,5 +1,3 @@
-Minimal but secure encryption chat using only one installed package (RSA)
-
 ## Features
 
 - Very light (2kb)
